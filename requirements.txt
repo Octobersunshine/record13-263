@@ -1,6 +1,8 @@
 dash>=2.16.0
 flask>=3.0.0
+flask-sock>=0.7.0
 pandas>=2.2.0
 numpy>=1.26.0
 plotly>=5.19.0
+simple-websocket>=0.10.0
 gunicorn>=21.2.0; sys_platform != 'win32'
